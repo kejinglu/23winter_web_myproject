@@ -9,10 +9,9 @@ First run `npm i` in server directory
 
 `node app`
 
-## front end - react web app
-You can create `npm create-react-app web`
-
-npm run start
+## front end - create a react web app
+ `npm i`
+`npm run start`
 open [http://localhost:3000]
 
 ## packages
