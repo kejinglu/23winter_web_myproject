@@ -1,7 +1,7 @@
-## this repo include code submitted only.
+## this repo include code I created/modified only.
 #### docs and reports in repo `../*_docs`
 
-## demo video link (also in submit comment)
+## demo video 
 https://drive.google.com/file/d/183PkuH5kDnjg1_9O71ZfrW_X5hcTQpSF/view?usp=sharing
 
 ## run node server
